@@ -1,0 +1,42 @@
+{
+  "scenario_id": "nba-western-road-trip",
+  "team_name": "Pacific Waves",
+  "league": "NBA",
+  "home_city": "Los Angeles",
+  "home_airport": "LAX",
+  "games": [
+    {
+      "trip_id": "TRIP-DEN-001",
+      "opponent": "Denver Peaks",
+      "city": "Denver",
+      "venue": "Summit Arena",
+      "game_datetime": "2026-01-14T19:00:00-07:00",
+      "special_requirements": [
+        "Recovery tubs at hotel",
+        "Private postgame meal room"
+      ]
+    },
+    {
+      "trip_id": "TRIP-PHX-002",
+      "opponent": "Phoenix Orbit",
+      "city": "Phoenix",
+      "venue": "Desert Dome",
+      "game_datetime": "2026-01-15T22:15:00-07:00",
+      "special_requirements": [
+        "Postgame charter wheels-up target 01:05 local",
+        "Late-night boxed meals for travelers"
+      ]
+    },
+    {
+      "trip_id": "TRIP-SAT-003",
+      "opponent": "San Antonio Stallions",
+      "city": "San Antonio",
+      "venue": "River Center",
+      "game_datetime": "2026-01-18T19:30:00-06:00",
+      "special_requirements": [
+        "Late checkout request for game-day rooms",
+        "Meeting room for coaching review"
+      ]
+    }
+  ]
+}

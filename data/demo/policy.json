@@ -1,0 +1,27 @@
+{
+  "policy_id": "policy-pacific-waves-2026",
+  "max_hotel_rate": 289,
+  "room_mix": {
+    "single_king": 34,
+    "double_queen": 10,
+    "suites": 6,
+    "staff_rooms": 4
+  },
+  "approval_thresholds": {
+    "hotel_total_per_night": 15000,
+    "charter_total": 90000
+  },
+  "aircraft_preferences": [
+    "Boeing 757",
+    "Airbus A321"
+  ],
+  "curfew": "01:00",
+  "recovery_windows": {
+    "late_arrival_min_hours": 23,
+    "back_to_back_buffer_hours": 30
+  },
+  "exceptions": [
+    "Late checkout can be approved by the director of team operations.",
+    "Hotel overages above max rate require finance approval and written justification."
+  ]
+}

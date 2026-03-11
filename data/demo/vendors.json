@@ -1,0 +1,137 @@
+[
+  {
+    "vendor_id": "HOTEL-DEN-ALPINE",
+    "name": "Alpine Grand Denver",
+    "category": "hotel",
+    "city": "Denver",
+    "preferred_rank": 1,
+    "contact": {
+      "name": "Mira Patel",
+      "email": "mira.patel@alpinegranddemo.com"
+    },
+    "historical_response_time": 2.4,
+    "historical_win_rate": 0.86,
+    "rate_card": 274,
+    "notes": "Handled recovery-tub setup on two prior trips and honored quiet-floor requests."
+  },
+  {
+    "vendor_id": "HOTEL-DEN-SKYLINE",
+    "name": "Skyline Union Denver",
+    "category": "hotel",
+    "city": "Denver",
+    "preferred_rank": 2,
+    "contact": {
+      "name": "Jordan Lee",
+      "email": "jordan.lee@skylineuniondemo.com"
+    },
+    "historical_response_time": 3.7,
+    "historical_win_rate": 0.61,
+    "rate_card": 301,
+    "notes": "Good ballroom inventory but slower confirmations during high-demand dates."
+  },
+  {
+    "vendor_id": "HOTEL-PHX-SONORA",
+    "name": "Sonora Central Phoenix",
+    "category": "hotel",
+    "city": "Phoenix",
+    "preferred_rank": 1,
+    "contact": {
+      "name": "Avery Kim",
+      "email": "avery.kim@sonoracentraldemo.com"
+    },
+    "historical_response_time": 1.9,
+    "historical_win_rate": 0.9,
+    "rate_card": 265,
+    "notes": "Strong postgame meal support and can prep late-arrival grab-and-go service."
+  },
+  {
+    "vendor_id": "HOTEL-PHX-COPPER",
+    "name": "Copper Square Suites",
+    "category": "hotel",
+    "city": "Phoenix",
+    "preferred_rank": 2,
+    "contact": {
+      "name": "Sam Ortega",
+      "email": "sam.ortega@coppersquaredemo.com"
+    },
+    "historical_response_time": 2.8,
+    "historical_win_rate": 0.66,
+    "rate_card": 284,
+    "notes": "Reliable meeting-room inventory but limited loading-dock access for equipment."
+  },
+  {
+    "vendor_id": "HOTEL-SAT-RIVER",
+    "name": "River Walk Plaza",
+    "category": "hotel",
+    "city": "San Antonio",
+    "preferred_rank": 1,
+    "contact": {
+      "name": "Taylor Brooks",
+      "email": "taylor.brooks@riverwalkplazademo.com"
+    },
+    "historical_response_time": 2.2,
+    "historical_win_rate": 0.88,
+    "rate_card": 279,
+    "notes": "Consistent late-checkout flexibility and private dining room on short notice."
+  },
+  {
+    "vendor_id": "HOTEL-SAT-LONESTAR",
+    "name": "Lone Star Landing",
+    "category": "hotel",
+    "city": "San Antonio",
+    "preferred_rank": 2,
+    "contact": {
+      "name": "Casey Nguyen",
+      "email": "casey.nguyen@lonestardemo.com"
+    },
+    "historical_response_time": 4.5,
+    "historical_win_rate": 0.58,
+    "rate_card": 245,
+    "notes": "Lowest pricing in market but less reliable on suite upgrades and late departures."
+  },
+  {
+    "vendor_id": "CHARTER-JETSTREAM",
+    "name": "JetStream Sports Air",
+    "category": "charter",
+    "city": "National",
+    "preferred_rank": 1,
+    "contact": {
+      "name": "Riley Morgan",
+      "email": "ops@jetstreamsportsairdemo.com"
+    },
+    "historical_response_time": 1.5,
+    "historical_win_rate": 0.91,
+    "rate_card": 84500,
+    "notes": "Fleet includes Boeing 757 coverage and strong late-night reposition reliability."
+  },
+  {
+    "vendor_id": "CHARTER-SKYBRIDGE",
+    "name": "SkyBridge Charter",
+    "category": "charter",
+    "city": "National",
+    "preferred_rank": 2,
+    "contact": {
+      "name": "Morgan Ellis",
+      "email": "charters@skybridgedemo.com"
+    },
+    "historical_response_time": 2.3,
+    "historical_win_rate": 0.78,
+    "rate_card": 79200,
+    "notes": "Strong pricing but A321 availability is less reliable on back-to-back turns."
+  },
+  {
+    "vendor_id": "CHARTER-ALTITUDE",
+    "name": "Altitude Team Flights",
+    "category": "charter",
+    "city": "National",
+    "preferred_rank": 3,
+    "contact": {
+      "name": "Drew Foster",
+      "email": "sales@altitudeteamflightsdemo.com"
+    },
+    "historical_response_time": 3.4,
+    "historical_win_rate": 0.63,
+    "rate_card": 75600,
+    "notes": "Acceptable backup provider with slower dispatch support for postgame departures."
+  }
+]

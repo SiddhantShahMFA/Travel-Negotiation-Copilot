@@ -1,0 +1,17 @@
+[
+  {
+    "template_id": "hotel-outreach",
+    "category": "hotel",
+    "text": "Request room block, suite inventory, meal room access, meeting room needs, late checkout options, and cancellation terms. Do not mention or invent pricing."
+  },
+  {
+    "template_id": "charter-outreach",
+    "category": "charter",
+    "text": "Request aircraft type, wheels-up timing, baggage handling, crew duty coverage, catering timing, and cancellation terms. Do not mention or invent pricing."
+  },
+  {
+    "template_id": "itinerary-packet",
+    "category": "itinerary",
+    "text": "Summarize the recommended flow for players, staff, and operations with clear departures, arrivals, hotel actions, and risk flags."
+  }
+]
