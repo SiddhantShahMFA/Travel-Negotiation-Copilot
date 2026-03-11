@@ -1,0 +1,22 @@
+[
+  {"trip_id": "HIST-001", "city": "Denver", "hotel_vendor_id": "HOTEL-DEN-ALPINE", "charter_vendor_id": "CHARTER-JETSTREAM", "final_spend": 101200, "note": "Quiet floor and recovery tubs executed cleanly on January mountain swing."},
+  {"trip_id": "HIST-002", "city": "Phoenix", "hotel_vendor_id": "HOTEL-PHX-SONORA", "charter_vendor_id": "CHARTER-JETSTREAM", "final_spend": 98300, "note": "Late-night boxed meals were ready before team arrival."},
+  {"trip_id": "HIST-003", "city": "San Antonio", "hotel_vendor_id": "HOTEL-SAT-RIVER", "charter_vendor_id": "CHARTER-SKYBRIDGE", "final_spend": 94750, "note": "Late checkout granted for coaches on game day."},
+  {"trip_id": "HIST-004", "city": "Denver", "hotel_vendor_id": "HOTEL-DEN-ALPINE", "charter_vendor_id": "CHARTER-SKYBRIDGE", "final_spend": 99500, "note": "Bus dock access was smooth, but charter confirmation came late."},
+  {"trip_id": "HIST-005", "city": "Phoenix", "hotel_vendor_id": "HOTEL-PHX-COPPER", "charter_vendor_id": "CHARTER-ALTITUDE", "final_spend": 93600, "note": "Meeting room was strong, loading dock created delays for equipment."},
+  {"trip_id": "HIST-006", "city": "San Antonio", "hotel_vendor_id": "HOTEL-SAT-RIVER", "charter_vendor_id": "CHARTER-JETSTREAM", "final_spend": 100450, "note": "Recovery schedule held despite 02:10 local arrival."},
+  {"trip_id": "HIST-007", "city": "Denver", "hotel_vendor_id": "HOTEL-DEN-SKYLINE", "charter_vendor_id": "CHARTER-ALTITUDE", "final_spend": 92400, "note": "Ballroom support was good, but suites were not ready on arrival."},
+  {"trip_id": "HIST-008", "city": "Phoenix", "hotel_vendor_id": "HOTEL-PHX-SONORA", "charter_vendor_id": "CHARTER-SKYBRIDGE", "final_spend": 96580, "note": "Postgame meal service and checkout timing both exceeded expectations."},
+  {"trip_id": "HIST-009", "city": "San Antonio", "hotel_vendor_id": "HOTEL-SAT-LONESTAR", "charter_vendor_id": "CHARTER-ALTITUDE", "final_spend": 90120, "note": "Rate was good, but late-checkout request was denied."},
+  {"trip_id": "HIST-010", "city": "Denver", "hotel_vendor_id": "HOTEL-DEN-ALPINE", "charter_vendor_id": "CHARTER-JETSTREAM", "final_spend": 103800, "note": "Best overall recovery setup for altitude game."},
+  {"trip_id": "HIST-011", "city": "Phoenix", "hotel_vendor_id": "HOTEL-PHX-SONORA", "charter_vendor_id": "CHARTER-JETSTREAM", "final_spend": 97400, "note": "Vendor answered outreach in under two hours and locked quiet floor."},
+  {"trip_id": "HIST-012", "city": "San Antonio", "hotel_vendor_id": "HOTEL-SAT-RIVER", "charter_vendor_id": "CHARTER-SKYBRIDGE", "final_spend": 95210, "note": "Private dining room helped compress operations timeline."},
+  {"trip_id": "HIST-013", "city": "Denver", "hotel_vendor_id": "HOTEL-DEN-ALPINE", "charter_vendor_id": "CHARTER-JETSTREAM", "final_spend": 102650, "note": "Preferred bus load path reduced postgame departure delay."},
+  {"trip_id": "HIST-014", "city": "Phoenix", "hotel_vendor_id": "HOTEL-PHX-COPPER", "charter_vendor_id": "CHARTER-SKYBRIDGE", "final_spend": 94870, "note": "Reasonable value, but late-night meal replenishment required extra follow-up."},
+  {"trip_id": "HIST-015", "city": "San Antonio", "hotel_vendor_id": "HOTEL-SAT-RIVER", "charter_vendor_id": "CHARTER-JETSTREAM", "final_spend": 99640, "note": "Quick turnaround itinerary stayed on schedule because checkout exception was pre-cleared."},
+  {"trip_id": "HIST-016", "city": "Denver", "hotel_vendor_id": "HOTEL-DEN-SKYLINE", "charter_vendor_id": "CHARTER-SKYBRIDGE", "final_spend": 96900, "note": "Good banquet space, but rate exceeded cap and needed finance sign-off."},
+  {"trip_id": "HIST-017", "city": "Phoenix", "hotel_vendor_id": "HOTEL-PHX-SONORA", "charter_vendor_id": "CHARTER-JETSTREAM", "final_spend": 98110, "note": "Best record for postgame grab-and-go service after late tips."},
+  {"trip_id": "HIST-018", "city": "San Antonio", "hotel_vendor_id": "HOTEL-SAT-LONESTAR", "charter_vendor_id": "CHARTER-SKYBRIDGE", "final_spend": 91530, "note": "Cost win, but suite upgrades were limited for coaches."},
+  {"trip_id": "HIST-019", "city": "Denver", "hotel_vendor_id": "HOTEL-DEN-ALPINE", "charter_vendor_id": "CHARTER-JETSTREAM", "final_spend": 101980, "note": "Reliable recovery environment on second night of a road set."},
+  {"trip_id": "HIST-020", "city": "Phoenix", "hotel_vendor_id": "HOTEL-PHX-SONORA", "charter_vendor_id": "CHARTER-JETSTREAM", "final_spend": 97240, "note": "Preferred property won again because staff rooms were ready early."}
+]
