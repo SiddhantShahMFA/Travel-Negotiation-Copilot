@@ -31,7 +31,7 @@ def test_rankings_are_stable_and_explainable(tmp_path: Path) -> None:
 
 
 def test_fallback_drafts_are_grounded_and_do_not_invent_quotes(tmp_path: Path, monkeypatch) -> None:
-    monkeypatch.delenv("OPENAI_API_KEY", raising=False)
+    monkeypatch.setenv("OPENAI_API_KEY", "")
     plan = generate_plan(db_path=tmp_path / "app.db")
 
     assert plan.output_packet.recommendation.startswith("NON-LLM FALLBACK")

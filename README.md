@@ -1,6 +1,6 @@
 # Travel-Negotiation-Copilot
 
-Streamlit proof of concept for a human-in-the-loop sports travel planning copilot. The demo uses seeded NBA-style data to generate a three-city road trip plan with deterministic policy checks, transparent vendor ranking, grounded draft outreach, approval gates, and exportable itinerary packets.
+Streamlit proof of concept for a human-in-the-loop sports travel planning copilot. The demo uses seeded NBA-style data to generate a three-city road trip plan with deterministic policy checks, transparent vendor ranking, grounded draft outreach, approval gates, exportable itinerary packets, and a premium sports-operations dashboard UI.
 
 For a plain-language product summary, see [docs/product-overview.md](/Users/siddhantshah/Desktop/AI/Travel-Negotiation-Copilot/docs/product-overview.md).
 
@@ -15,6 +15,7 @@ For a plain-language product summary, see [docs/product-overview.md](/Users/sidd
 - Falls back to deterministic drafts when no model credentials are configured.
 - Requires approval of recommendation, outreach, and itinerary before export.
 - Exports one Markdown packet and one HTML packet.
+- Presents the scenario in a tabbed dashboard with KPI cards, trip boards, vendor scorecards, grounded snippets, and a consolidated approval/export console.
 
 ## Tech stack
 
@@ -53,7 +54,13 @@ The app loads `.env` automatically on startup and before draft generation.
 uv run streamlit run app.py
 ```
 
-Use the sidebar to adjust party size and curfew, then generate the scenario. The UI shows trip legs, constraints, risks, ranked vendors, grounded snippets, draft outputs, and export controls.
+Use the sidebar to adjust party size and curfew, then generate the scenario. The UI opens into three main tabs:
+
+- `Overview`: hero banner, KPI strip, trip cards, constraints, risks, and grounding snippets
+- `Vendors`: richer hotel and charter scorecards with explainable ranking factors
+- `Packet & Approvals`: AI drafts, negotiation summary, approval progress, and export controls
+
+The first-load empty state is also presentation-ready for demos before the initial generation click.
 
 ## Test the project
 
